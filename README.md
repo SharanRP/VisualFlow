@@ -5,7 +5,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/U20dJkS.png" alt="project-screenshot" width="1362" height="654/">
+<img src="https://i.imgur.com/U20dJkS.png" alt="project-screenshot" width="1362" height="500/">
 
 <img src="https://i.imgur.com/lM1uCYj.png" alt="project-screenshot" width="1362" height="400/">
 
@@ -56,8 +56,6 @@ cd backend
 node index.js
 ```
 
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -66,3 +64,12 @@ Technologies used in the project:
 *   React-Flow
 *   Tailwind
 *   MUI
+
+<h2>Future Scope</h2>
+*  Incorporating machine learning and AI capabilities could help VisualFlow analyze flowcharts and suggest optimized code, making it more intelligent and adaptive to the user's needs.
+*  While VisualFlow currently supports C++, expanding its capabilities to cover a broader range of programming languages could significantly increase its utility. This would make it attractive to a more extensive community of developers and programmers.
+*  VisualFlow could be further developed for educational purposes. It could be used to teach programming concepts, algorithm design, and software engineering in an interactive and engaging way.
+
+<h2>Mentor</h2>
+- Sameer Gupta
+  
