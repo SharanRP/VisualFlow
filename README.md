@@ -24,6 +24,40 @@ Here're some of the project's best features:
 *   Easy to Use: VisualFlow is known for its ease of use. It simplifies the process of flowchart creation and code generation making it accessible to a wide range of users without requiring extensive technical knowledge.
 *   Built-In Compiler: VisualFlow includes a built-in compiler which means that you can compile the generated C++ code directly within the platform. This feature provides a convenient and integrated solution for testing and verifying the functionality of your code.
 
+ <hr> 
+
+<h2> JDoodle API Installation Guide</h2>
+The JDoodle API allows you to execute code in various programming languages in a remote environment.
+<br>
+<br>
+
+__1. Prerequisites__
+
+Before you begin, ensure you have the following prerequisites in place:
+- [Node.js](https://nodejs.org/) installed on your system.
+<br>
+<br>
+
+__2. Getting API Key__
+
+To use the JDoodle API, you need to obtain an API key. Follow these steps to get your API key:
+1. Visit the JDoodle API website at [https://www.jdoodle.com/api/docs/](https://www.jdoodle.com/api/docs/).
+2. Sign up or log in to your JDoodle account.
+3. Navigate to the API section and generate an API key.
+4. Keep your API key secure and never share it publicly.
+<br>
+<br>
+
+__3. Installation__
+Replace your 'YOUR_CLIENT_ID' and'YOUR_CLIENT_SECRET' with your own ClientId and ClientSecret
+```
+clientId: 'YOUR_CLIENT_ID',
+clientSecret: 'YOUR_CLIENT_SECRET',
+```
+<br>
+<hr>
+<br>
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Start by cloning the repo</p>
@@ -36,6 +70,7 @@ git clone https://github.com/SharanRP/VisualFlow.git
 
 ```
 cd VisualFlow
+npm install
 ```
 
 <p>3. start the react app</p>
@@ -48,6 +83,7 @@ npm start
 
 ```
 cd backend
+npm install
 ```
 
 <p>5. start the server</p>
@@ -66,10 +102,15 @@ Technologies used in the project:
 *   MUI
 
 <h2>Future Scope</h2>
-*  Incorporating machine learning and AI capabilities could help VisualFlow analyze flowcharts and suggest optimized code, making it more intelligent and adaptive to the user's needs.
-*  While VisualFlow currently supports C++, expanding its capabilities to cover a broader range of programming languages could significantly increase its utility. This would make it attractive to a more extensive community of developers and programmers.
-*  VisualFlow could be further developed for educational purposes. It could be used to teach programming concepts, algorithm design, and software engineering in an interactive and engaging way.
+
+- Incorporating machine learning and AI capabilities could help VisualFlow analyze flowcharts and suggest optimized code, making it more intelligent and adaptive to the user's needs.
+
+- While VisualFlow currently supports C++, expanding its capabilities to cover a broader range of programming languages could significantly increase its utility. This would make it attractive to a more extensive community of developers and programmers.
+
+- VisualFlow could be further developed for educational purposes. It could be used to teach programming concepts, algorithm design, and software engineering in an interactive and engaging way.
+
 
 <h2>Mentor</h2>
-- Sameer Gupta
+
+-  Sameer Gupta
   
