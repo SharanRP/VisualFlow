@@ -43,8 +43,11 @@
     ├── 📄README.md
     └── 📄tailwind.config.js
 </pre>
-
-
+<hr>
+<h2>📅TimeLine</h2>
+<img width="1362" height="480" src="https://i.imgur.com/3jcuCu0.png" alt="Customer-Journey-1" ></img>
+ <hr>
+  
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.imgur.com/U20dJkS.png" alt="project-screenshot" width="1362" height="500/">
@@ -53,7 +56,7 @@
 
 <img src="https://i.imgur.com/Zw0AOWO.png" alt="project-screenshot" width="1362" height="400/">
 
-  
+  <hr>
   
 <h2>🧐 Features</h2>
 
