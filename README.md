@@ -3,6 +3,48 @@
 <p align="center"><img src="https://socialify.git.ci/SharanRP/VisualFlow/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="VisualFlow" width="640" height="320" /></p>
 <p id="description">VisualFlow is a versatile platform that simplifies the process of creating flowcharts by offering an intuitive and user-friendly interface. With VisualFlow you can effortlessly draw flowcharts by dragging and dropping various elements and connecting them to define the logical flow of a process or a program. This eliminates the need for manual time-consuming flowchart design and ensures that even individuals without extensive technical expertise can participate in the process. One of the standout features of VisualFlow is its ability to seamlessly generate code based on the flowchart you create. As you design your flowchart the platform can analyze the visual representation and translate it into actual programming code. This not only streamlines the coding process but also reduces the likelihood of errors or inconsistencies between the flowchart and the code. Furthermore VisualFlow empowers users to compile the generated code directly within the platform. This means that you can quickly and conveniently check the functionality and correctness of your code ensuring that it runs smoothly without having to switch to external development environments or compilers.</p>
 
+<h2>📦File Structure</h2>
+<pre>
+.
+└──📁 VisualFlow/
+    ├──📁 backend/
+    │   ├── 📄app.js
+    │   ├── 📄index.js
+    │   ├── 📄package.json
+    │   └── 📄package-lock.json    
+    ├──📁 public/
+    │   ├── 📄index.html
+    │   ├── 📄manifest.json
+    │   └── 📄robots.txt
+    ├──📁 src/
+    │   ├──📁 components/
+    │   │   ├── 📄codeCompile.js
+    │   │   ├── 📄customEdge.js
+    │   │   ├── 📄CustomNode.js
+    │   │   ├── 📄decisionNode.js
+    │   │   ├── 📄DownloadButton.js
+    │   │   ├── 📄Navbar.jsx
+    │   │   ├── 📄parallelogram.js
+    │   │   ├── 📄script.js
+    │   │   ├── 📄sideNav.js
+    │   │   ├── 📄textUpdaterNode.js
+    │   │   ├── 📄tokyo-night-dark.css
+    │   │   ├── 📄gradient-dark.css
+    │   │   └── 📄atom-one-dark.css
+    │   ├── 📄App.cs
+    │   ├── 📄App.js
+    │   ├── 📄App.test.js
+    │   ├── 📄index.css
+    │   ├── 📄index.js
+    │   ├── 📄reportWeVitals.js
+    │   └── 📄setupTests.js
+    ├── 📄package-lock.json
+    ├── 📄package.json
+    ├── 📄README.md
+    └── 📄tailwind.config.js
+</pre>
+
+
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.imgur.com/U20dJkS.png" alt="project-screenshot" width="1362" height="500/">
