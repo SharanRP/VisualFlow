@@ -137,6 +137,18 @@ npm install
 node index.js
 ```
 
+<h2>Project demo</h2>
+
+https://github.com/SharanRP/VisualFlow/assets/136159249/4916affb-9148-4d38-aef1-e967520f9c86
+
+
+https://github.com/SharanRP/VisualFlow/assets/136159249/61c67e54-d1f4-403b-b757-a052f0b205ba
+
+
+https://github.com/SharanRP/VisualFlow/assets/136159249/17f0f367-09d1-4ee0-b0b4-bf0d487fa121
+
+
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
